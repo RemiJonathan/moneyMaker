@@ -29,8 +29,9 @@ public class MainActivity extends AppCompatActivity {
         makeMoney.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(balance>149999) showWealthy();
                 makeMoney(view);
+                if(balance>=150000) showWealthy();
+
             }
         });
 
