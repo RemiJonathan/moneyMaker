@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Money Maker</string>
+    <string name="_2000_00">$ 2000.00</string>
+    <string name="you_have">You have</string>
+    <string name="make_money">Make Money</string>
+    <string name="encouragement">Encouragement</string>
 </resources>
